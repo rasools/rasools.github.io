@@ -65,7 +65,7 @@ sections:
         - title: Bioinformatics Scientist
           company: NBIS – National Bioinformatics Infrastructure Sweden
           company_url: 'https://nbis.se/'
-          company_logo: NBIS
+          company_logo: org-gc
           location: Gothenburg, Sweden
           date_start: '2021-09-01'
           date_end: ''
@@ -75,9 +75,9 @@ sections:
               * Bioinformatics support of research projects
               * Training tasks
               * Developing new tools
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Project Leader
+          company: AddCell
+          company_url: 'https://addcell.org/'
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
