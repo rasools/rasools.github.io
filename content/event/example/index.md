@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: Space Hack 2.0
 
-event: Hugo Blox Builder Conference
+event: ELIXIR-DE-Hackathons
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
