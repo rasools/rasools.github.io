@@ -55,26 +55,26 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: Sep 2022
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Bioinformatics Scientist
+          company: NBIS – National Bioinformatics Infrastructure Sweden
+          company_url: 'https://nbis.se/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Gothenburg, Sweden
+          date_start: '2021-09-01'
+          date_end: 'present'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Long-term bioinformatics support of research projects
+              * Training tasks
+              * Developing new tools
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
