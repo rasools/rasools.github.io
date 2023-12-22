@@ -65,14 +65,14 @@ sections:
         - title: Bioinformatics Scientist
           company: NBIS – National Bioinformatics Infrastructure Sweden
           company_url: 'https://nbis.se/'
-          company_logo: org-gc
+          company_logo: NBIS
           location: Gothenburg, Sweden
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Long-term bioinformatics support of research projects
+              * Bioinformatics support of research projects
               * Training tasks
               * Developing new tools
         - title: Professor of Semiconductor Physics
