@@ -65,7 +65,7 @@ sections:
         - title: Bioinformatics Scientist
           company: NBIS – National Bioinformatics Infrastructure Sweden
           company_url: 'https://nbis.se/'
-          company_logo: org-gc
+          company_logo: ""
           location: Gothenburg, Sweden
           date_start: '2021-09-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Project Leader
           company: AddCell
           company_url: 'https://addcell.org/'
-          company_logo: org-x
+          company_logo: ""
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
