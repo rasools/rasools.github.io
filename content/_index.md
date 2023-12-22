@@ -68,7 +68,7 @@ sections:
           company_logo: org-gc
           location: Gothenburg, Sweden
           date_start: '2021-09-01'
-          date_end: 'present'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
