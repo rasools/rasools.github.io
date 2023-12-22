@@ -3,7 +3,7 @@
 title: Rasool Saghaleyni
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Rasool
@@ -21,30 +21,34 @@ role: Staff Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ntional
-    url: https://www.stanford.edu/
+  - name: Ntional Bioinformatics Infrastructure of Sweden (NBIS)
+    url: https://nbis.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multi-omics integration, metabolic modeling and structural biology.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biomarkers and drug targets discovery
+  - Precision medicine
+  - Integrative omics analysis
+  - Cell-line optimization
+  - Cycling
+  - Swimming
+  - Podcasts
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Systems Biology
+      institution: Chalmers University of technology
+      year: 2021
+    - course: Msc in Cell and Molecular Biology
+      institution: National Institute of Genetic Engineering and Biotechnology (NIGEB)
+      year: 2014
+    - course: BSc in Cell and Molecular Biology
+      institution: Isfahan University
+      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
