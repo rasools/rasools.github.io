@@ -79,10 +79,20 @@ sections:
           company: AddCell
           company_url: 'https://addcell.org/'
           company_logo: ""
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Gothenburg, Sweden
+          date_start: '2022-01-22'
+          date_end: ''
+          description: |2-
+          Since its invention in 2012, CRISPR technology has transformed the face of life science by enabling the generation of thousands of cell lines originating from a wide range of tissues and a myriad of transgenic animals recapitulating disease phenotypes. Huge excitement around the revolutionary aspects of CRISPR-based studies and increasing support from funding agencies have been translated into the number of edited cell lines vastly growing by every year. AddCell provides the research community, legislators, regulators, and the general public a large and in-depth overview of the current status of CRISPR edited cell lines.
           description: Taught electronic engineering and researched semiconductor physics.
+               Responsibilities include:
+              * Project Management
+              * Natural Language Processing (NLP)
+              * Web Development
+              * Team Management
+              * Project Planning
+              * Fundraising
+
     design:
       columns: '2'
   - block: accomplishments
