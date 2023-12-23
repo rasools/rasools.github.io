@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi! I am Rasool!
+      title: Hi, I am Rasool!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -380,8 +380,8 @@ sections:
         - 'Mon-Fri 08:00 to 17:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '57.689800'
+        longitude: '11.977800'  
       contact_links:
         - icon: twitter
           icon_pack: fab
