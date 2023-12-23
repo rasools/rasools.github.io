@@ -89,7 +89,7 @@ sections:
               Since its invention in 2012, CRISPR technology has transformed the face of life science by enabling the generation of thousands of cell lines originating from a wide range of tissues and a myriad of transgenic animals recapitulating disease phenotypes. Huge excitement around the revolutionary aspects of CRISPR-based studies and increasing support from funding agencies have been translated into the number of edited cell lines vastly growing by every year. AddCell provides the research community, legislators, regulators, and the general public a large and in-depth overview of the current status of CRISPR edited cell lines.
               description: Taught electronic engineering and researched semiconductor physics.
 
-               Responsibilities include:
+              Responsibilities include:
 
               * Project Management
               * Natural Language Processing (NLP)
@@ -107,7 +107,7 @@ sections:
           description: |2-
               During my postdoctoral tenure, I spearheaded the development and application of the HumanSec toolbox to model cellular protein production processes. This initiative centered on utilizing proteomics data linked to Alzheimer's disease with the objective of elucidating pathways influencing the amplification and advancement of AD. Throughout this project, I refined my proficiency in package development, specializing in modeling protein secretion, and deepened my comprehension of the complex biological mechanisms underpinning brain neurology.
 
-               Responsibilities include:
+              Responsibilities include:
 
               * Cancer Biology
               * Protein secretion modeling
@@ -123,11 +123,11 @@ sections:
           date_start: '2016-08-22'
           date_end: '2021-08-30'
           description: |2-
-               Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications
+              Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications
 
               My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer.
 
-               Responsibilities include:
+              Responsibilities include:
 
               * Cancer Biology
               * Protein secretion modeling
@@ -143,9 +143,9 @@ sections:
           date_start: '2016-01-01'
           date_end: '2016-03-30'
           description: |2-
-                I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
+              I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
 
-               Responsibilities include:
+              Responsibilities include:
 
               * Expertise in bio-assay design for monoclonal antibody binding assessment.
               * Developing chromatographic methods for antibody quality control.
@@ -158,9 +158,9 @@ sections:
           date_start: '2015-05-01'
           date_end: '2015-12-30'
           description: |2-
-                Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
+              Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
 
-               Responsibilities include:
+              Responsibilities include:
 
               * Mammalian cell culture.
               * Antibody production.
@@ -174,9 +174,9 @@ sections:
           date_start: '2013-10-01'
           date_end: '2015-04-01'
           description: |2-
-                Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
+              Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
 
-               Responsibilities include:
+              Responsibilities include:
 
               * Constraint-based modeling.
               * Metabolic modeling.
