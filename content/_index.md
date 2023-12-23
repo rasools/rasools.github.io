@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Bioinformatics Scientist
+        - title: Staff Research Scientist
           company: NBIS – National Bioinformatics Infrastructure Sweden
           company_url: 'https://nbis.se/'
           company_logo: ""
@@ -105,11 +105,16 @@ sections:
           date_start: '2021-09-01'
           date_end: '2022-08-30'
           description: |2-
+              During my postdoctoral tenure, I spearheaded the development and application of the HumanSec toolbox to model cellular protein production processes. This initiative centered on utilizing proteomics data linked to Alzheimer's disease with the objective of elucidating pathways influencing the amplification and advancement of AD. Throughout this project, I refined my proficiency in package development, specializing in modeling protein secretion, and deepened my comprehension of the complex biological mechanisms underpinning brain neurology.
+
                Responsibilities include:
 
               * Cancer Biology
               * Protein secretion modeling
               * Metabolic modeling
+              * Brain neurology
+              * Biomarker/drug discovery
+              * Multi-omics data integration and analysis
 
     design:
       columns: '2'
