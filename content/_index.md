@@ -297,8 +297,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: AddCell
+          tag: addcell
+        - name: Protein Production
+          tag: Protein Production
         - name: Other
           tag: Demo
     design:
