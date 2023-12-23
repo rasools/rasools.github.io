@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi! I am Rasool! Nice to meet you!
+      title: Hi! I am Rasool!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -48,8 +48,8 @@ sections:
   #     text: ''
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #     username: admin
-  #   design:
-  #     columns: '1'
+    # design:
+    #   columns: '1'
   - block: experience
     content:
       title: Experience
@@ -124,7 +124,6 @@ sections:
           date_end: '2021-08-30'
           description: |2-
               Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications.
-
 
               My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. Read my thesis [here](https://research.chalmers.se/en/publication/524959).
 
@@ -209,8 +208,8 @@ sections:
           date_end: '2011-05-15'
           description: |2-
 
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
