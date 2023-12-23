@@ -123,9 +123,10 @@ sections:
           date_start: '2016-08-22'
           date_end: '2021-08-30'
           description: |2-
-              Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications
+              Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications.
 
-              My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer.
+
+              My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. Read my thesis [here](https://research.chalmers.se/en/publication/524959).
 
               Responsibilities include:
 
@@ -181,6 +182,24 @@ sections:
               * Constraint-based modeling.
               * Metabolic modeling.
               * Defining benchmarking concepts for testing metabolic modeling tools.
+        - title: MSc in Cell and Molecular Biology
+          company: National Institute of Genetic Engineering and Biotechnology (NIGEB)
+          company_url: 'https://www.nigeb.ac.ir/web/en'
+          company_logo: ""
+          location: Tehran, Iran
+          date_start: '2008-08-01'
+          date_end: '2011-05-15'
+          description: |2-
+              In my thesis I developed a genome-scale metabolic network of Bacillus licheniformis based similarities between Bacillus subtilis and Bacillus licheniformis and using KEGG database. In the final model there are 1324 metabolites and 1277 reactions. For validation of the reconstructed network at first M9 minimal medium was optimized with Tagouchi method to achieve a good growth. Then, growth was investigated in a range of glucose concentrations in the optimized culture medium. For determining the glucose flux rate we used continuous fermentation in a series of different dilution rates to measure the amount of remaining glucose in the output. Glucose uptake fluxes were determined per gram cell dry weight. Finally, the results were compared with the predictions of the in silico metabolic model. Comparison of experimental results with model predictions shows a good agreement between in vitro and in silico experiments under different glucose concentrations. Finally, as a possible application of the reconstructed model, we used OptKnock for optimization of 2,3-butanediol production. Two genes were proposed as the result of this analysis whose deletion will theoretically result in about 31% increase in the production of 2,3-butanediol by Bacillus licheniformis.
+
+              Responsibilities include:
+
+              * Constraint-based modeling.
+              * Metabolic modeling.
+              * Metabolic Engineering.
+              * Microbial batch and fed-batch fermentation.
+              * Protein purification.
+              * Targeted metabolomics.
 
     design:
       columns: '2'
