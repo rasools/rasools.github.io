@@ -200,7 +200,15 @@ sections:
               * Microbial batch and fed-batch fermentation.
               * Protein purification.
               * Targeted metabolomics.
-
+        - title: BSc in Cell and Molecular Biology
+          company: Isfahan University
+          company_url: 'https://www.ui.ac.ir/EN'
+          company_logo: ""
+          location: Isfahan, Iran
+          date_start: '2006-08-01'
+          date_end: '2011-05-15'
+          description: |2-
+          
     design:
       columns: '2'
   - block: accomplishments
