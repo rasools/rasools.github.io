@@ -115,7 +115,6 @@ sections:
               * Brain neurology
               * Biomarker/drug discovery
               * Multi-omics data integration and analysis
-
         - title: PhD in Systems Biology
           company: Chalmers University of Technology
           company_url: 'https://www.chalmers.se/en/'
@@ -136,7 +135,6 @@ sections:
               * Brain neurology
               * Biomarker/drug discovery
               * Multi-omics data integration and analysis
-
         - title: Research Engineer
           company: AryoGen Pharmed
           company_url: 'https://www.aryogen.com/wp/home-2/'
@@ -151,8 +149,7 @@ sections:
 
               * Expertise in bio-assay design for monoclonal antibody binding assessment.
               * Developing chromatographic methods for antibody quality control.
-              * Hands-on experience optimizing antibody production processes.
-  
+              * Hands-on experience optimizing antibody production processes.  
         - title: Research Engineer
           company: Iranian Blood Research and Fractionation (IBRF)
           company_url: 'https://www.linkedin.com/company/ibrf/'
@@ -169,7 +166,6 @@ sections:
               * Antibody production.
               * Antibody production quality control tests.
               * Developing downstream processes for antibody purification.
-
         - title: Research Assistant
           company: Institute for Research in Fundamental Sciences (IPM)
           company_url: 'https://www.ipm.ac.ir/'
