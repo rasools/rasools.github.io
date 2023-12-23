@@ -190,7 +190,7 @@ sections:
           date_start: '2008-08-01'
           date_end: '2011-05-15'
           description: |2-
-              In my thesis I developed a genome-scale metabolic network of Bacillus licheniformis based similarities between Bacillus subtilis and Bacillus licheniformis and using KEGG database. In the final model there are 1324 metabolites and 1277 reactions. For validation of the reconstructed network at first M9 minimal medium was optimized with Tagouchi method to achieve a good growth. Then, growth was investigated in a range of glucose concentrations in the optimized culture medium. For determining the glucose flux rate we used continuous fermentation in a series of different dilution rates to measure the amount of remaining glucose in the output. Glucose uptake fluxes were determined per gram cell dry weight. Finally, the results were compared with the predictions of the in silico metabolic model. Comparison of experimental results with model predictions shows a good agreement between in vitro and in silico experiments under different glucose concentrations. Finally, as a possible application of the reconstructed model, we used OptKnock for optimization of 2,3-butanediol production. Two genes were proposed as the result of this analysis whose deletion will theoretically result in about 31% increase in the production of 2,3-butanediol by Bacillus licheniformis.
+              In my thesis, I constructed a genome-scale metabolic network for Bacillus licheniformis, drawing on similarities with Bacillus subtilis and utilizing data from the KEGG database. This model comprised 1324 metabolites and 1277 reactions. To validate its accuracy, I optimized the M9 minimal medium using the Tagouchi method to create favorable growth conditions and then explored growth patterns across various glucose concentrations. Using continuous fermentation at different dilution rates, I measured glucose uptake fluxes per gram of cell dry weight. Comparing these experimental results to the predictions of the computational model showcased strong agreement between in vitro and in silico experiments across diverse glucose concentrations. Additionally, I applied this reconstructed model to optimize 2,3-butanediol production using OptKnock, identifying two genes whose theoretical deletion could potentially enhance 2,3-butanediol production in Bacillus licheniformis by around 31%.
 
               Responsibilities include:
 
@@ -208,7 +208,7 @@ sections:
           date_start: '2006-08-01'
           date_end: '2011-05-15'
           description: |2-
-          
+
     design:
       columns: '2'
   - block: accomplishments
