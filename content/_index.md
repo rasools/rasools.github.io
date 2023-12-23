@@ -98,20 +98,6 @@ sections:
               * Project Planning
               * Fundraising
 
-          - title: Postdoctoral Researcher
-          company: Chalmers University of Technology
-          company_url: 'https://www.chalmers.se/en/'
-          company_logo: ""
-          location: Gothenburg, Sweden
-          date_start: '2021-09-01'
-          date_end: '2022-08-30'
-          description: |2-
-               Responsibilities include:
-
-              * Cancer Biology
-              * Protein secretion modeling
-              * Metabolic modeling
-
     design:
       columns: '2'
   - block: accomplishments
