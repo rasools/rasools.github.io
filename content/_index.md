@@ -70,11 +70,14 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
+              As a bioinformatics scientist currently working at NBIS – National Bioinformatics Infrastructure Sweden – I am supporting various computational biology projects within academic research groups in Sweden. In this position, I have honed my data analysis skills across multiple bioinformatics disciplines, including spatial transcriptomics, biomarker discovery, understanding drug mechanisms of action, and identifying new drug candidates. My experience has also allowed me to excel in reporting and presenting analysis results in a clear and understandable manner to diverse audiences.
+
               Responsibilities include:
 
               * Bioinformatics support of research projects
-              * Training tasks
-              * Developing new tools
+              * Training duties
+              * Report preparation and documentation
+              * Scinetific presentation
         - title: Project Leader
           company: AddCell
           company_url: 'https://addcell.org/'
@@ -82,6 +85,26 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2022-01-22'
           date_end: ''
+          description: |2-
+              Since its invention in 2012, CRISPR technology has transformed the face of life science by enabling the generation of thousands of cell lines originating from a wide range of tissues and a myriad of transgenic animals recapitulating disease phenotypes. Huge excitement around the revolutionary aspects of CRISPR-based studies and increasing support from funding agencies have been translated into the number of edited cell lines vastly growing by every year. AddCell provides the research community, legislators, regulators, and the general public a large and in-depth overview of the current status of CRISPR edited cell lines.
+              description: Taught electronic engineering and researched semiconductor physics.
+
+               Responsibilities include:
+
+              * Project Management
+              * Natural Language Processing (NLP)
+              * Web Development
+              * Team Management
+              * Project Planning
+              * Fundraising
+
+          - title: Postdoctoral Researcher
+          company: Chalmers University of Technology
+          company_url: 'https://www.chalmers.se/en/'
+          company_logo: ""
+          location: Gothenburg, Sweden
+          date_start: '2021-09-01'
+          date_end: '2022-08-30'
           description: |2-
               Since its invention in 2012, CRISPR technology has transformed the face of life science by enabling the generation of thousands of cell lines originating from a wide range of tissues and a myriad of transgenic animals recapitulating disease phenotypes. Huge excitement around the revolutionary aspects of CRISPR-based studies and increasing support from funding agencies have been translated into the number of edited cell lines vastly growing by every year. AddCell provides the research community, legislators, regulators, and the general public a large and in-depth overview of the current status of CRISPR edited cell lines.
               description: Taught electronic engineering and researched semiconductor physics.
