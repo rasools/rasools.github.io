@@ -137,6 +137,54 @@ sections:
               * Biomarker/drug discovery
               * Multi-omics data integration and analysis
 
+        - title: Research Engineer
+          company: AryoGen Pharmed
+          company_url: 'https://www.aryogen.com/wp/home-2/'
+          company_logo: ""
+          location: Tehran, Iran
+          date_start: '2016-01-01'
+          date_end: '2016-03-30'
+          description: |2-
+                I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
+
+               Responsibilities include:
+
+              * Expertise in bio-assay design for monoclonal antibody binding assessment.
+              * Developing chromatographic methods for antibody quality control.
+              * Hands-on experience optimizing antibody production processes.
+  
+        - title: Research Engineer
+          company: Iranian Blood Research and Fractionation (IBRF)
+          company_url: 'https://www.linkedin.com/company/ibrf/'
+          company_logo: ""
+          location: Tehran, Iran
+          date_start: '2015-05-01'
+          date_end: '2015-12-30'
+          description: |2-
+                Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
+
+               Responsibilities include:
+
+              * Mammalian cell culture.
+              * Antibody production.
+              * Antibody production quality control tests.
+              * Developing downstream processes for antibody purification.
+
+        - title: Research Assistant
+          company: Institute for Research in Fundamental Sciences (IPM)
+          company_url: 'https://www.ipm.ac.ir/'
+          company_logo: ""
+          location: Tehran, Iran
+          date_start: '2013-10-01'
+          date_end: '2015-04-01'
+          description: |2-
+                Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
+
+               Responsibilities include:
+
+              * Constraint-based modeling.
+              * Metabolic modeling.
+              * Defining benchmarking concepts for testing metabolic modeling tools.
 
     design:
       columns: '2'
