@@ -10,7 +10,8 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-banner:
+# banner:
+header:
   caption: ''
   image: ''
 ---
