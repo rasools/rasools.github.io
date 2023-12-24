@@ -343,7 +343,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: event
+    id: events
     content:
       title: Events
       filters:
