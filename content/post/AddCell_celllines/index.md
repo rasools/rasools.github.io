@@ -1,17 +1,18 @@
 ---
-title: TP53 Dominance: Unveiling the Most Explored Gene in CRISPR Technology
-subtitle: How TP53 Dominates CRISPR Research: Insights from 3782 Articles and 41 Host Cell Lines
+title: Unrivaled Dominance: TP53 in CRISPR Studies Across Mammalian Cells
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: Since the inception of CRISPR technology in 2012, TP53 has emerged as the most extensively studied gene, with 66 knock-out instances across 3782 CRISPR-related articles. Among 2479 individually targeted genes in mammalian cells, TP53 stands out, knocked out in 41 host cell lines. Notably, the hTERT-RPE1 cell line has been used six times for TP53 knock-outs, highlighting its significance in studying cell division and DNA repair. This data unveils TP53's prevalence in CRISPR research and its pivotal role in cellular investigations.
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
 projects: []
+
 # Date published
-date: '2023-04-02T00:00:00Z'
+date: '2020-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2023-04-02T00:00:00Z'
+lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -22,25 +23,28 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
+  - 吳恩達
 
 tags:
-  - AddCell
-  - CRISPR
-  - crispr
-  - gene editing
-  - genome editing
+  - Academic
+  - 开源
 
-# categories:
-#   - Demo
-#   - 教程
+categories:
+  - Demo
+  - 教程
 ---
+
+```python
+import libr
+print('hello')
+```
 
 ## Overview
 
