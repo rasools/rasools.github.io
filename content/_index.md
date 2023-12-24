@@ -82,7 +82,7 @@ sections:
           company_url: 'https://nbis.se/'
           company_logo: ""
           location: Gothenburg, Sweden
-          date_start: '2021-09-01'
+          date_start: '2022-09-01'
           date_end: ''
           description: |2-
               As a bioinformatics scientist currently working at NBIS – National Bioinformatics Infrastructure Sweden – I am supporting various computational biology projects within academic research groups in Sweden. In this position, I have honed my data analysis skills across multiple bioinformatics disciplines, including spatial transcriptomics, biomarker discovery, understanding drug mechanisms of action, and identifying new drug candidates. My experience has also allowed me to excel in reporting and presenting analysis results in a clear and understandable manner to diverse audiences.
