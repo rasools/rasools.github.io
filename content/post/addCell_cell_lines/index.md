@@ -1,5 +1,5 @@
 ---
-title: TP53 Dominance: Unveiling the Most Explored Gene in CRISPR Technology
+title: TP53 Dominance - Unveiling the Most Explored Gene in CRISPR Technology
 subtitle: How TP53 Dominates CRISPR Research: Insights from 3782 Articles and 41 Host Cell Lines
 
 # Summary for listings and search engines
