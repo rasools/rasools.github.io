@@ -1,5 +1,5 @@
 ---
-title: Unrivaled Dominance: TP53 in CRISPR Studies Across Mammalian Cells
+title: Unrivaled Dominance of TP53 in CRISPR Studies Across Mammalian Cells
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
