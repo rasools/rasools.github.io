@@ -6,7 +6,7 @@ subtitle: How TP53 Dominates CRISPR Research: Insights from 3782 Articles and 41
 summary: Since the inception of CRISPR technology in 2012, TP53 has emerged as the most extensively studied gene, with 66 knock-out instances across 3782 CRISPR-related articles. Among 2479 individually targeted genes in mammalian cells, TP53 stands out, knocked out in 41 host cell lines. Notably, the hTERT-RPE1 cell line has been used six times for TP53 knock-outs, highlighting its significance in studying cell division and DNA repair. This data unveils TP53's prevalence in CRISPR research and its pivotal role in cellular investigations.
 
 # Link this post with a project
-projects: [AddCell]
+projects: AddCell
 
 # Date published
 date: '2023-04-02T00:00:00Z'
