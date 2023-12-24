@@ -343,7 +343,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: talks
+    id: event
     content:
       title: Events
       filters:
