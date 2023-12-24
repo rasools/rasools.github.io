@@ -343,9 +343,9 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: talks
+    id: event
     content:
-      title: Recent & Upcoming talks
+      title: Events
       filters:
         folders:
           - event
@@ -354,7 +354,7 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: I talke about
+      title: I talk about
     design:
       columns: '2'
   - block: contact
