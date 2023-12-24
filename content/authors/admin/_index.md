@@ -25,7 +25,7 @@ organizations:
     url: https://nbis.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-omics integration, metabolic modeling and structural biology.
+bio: My research interests include multi-omics integration, metabolic modeling, genome editing and structural biology.
 
 # Interests to show in About widget
 interests:
