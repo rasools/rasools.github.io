@@ -55,11 +55,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: coding
+        description: 'Python, R, Bash, Matlab'
         icon: python
-        icon_pack: fab
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
