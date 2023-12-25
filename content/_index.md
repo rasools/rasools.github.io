@@ -284,14 +284,14 @@ sections:
           location: Tehran, Iran
           date_start: '2016-01-01'
           date_end: '2016-03-30'
-          # description: |2-
-          #     I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
+          description: |2-
+              # I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Expertise in bio-assay design for monoclonal antibody binding assessment.
-          #     * Developing chromatographic methods for antibody quality control.
-          #     * Hands-on experience optimizing antibody production processes.  
+              * Expertise in bio-assay design for monoclonal antibody binding assessment.
+              * Developing chromatographic methods for antibody quality control.
+              * Hands-on experience optimizing antibody production processes.  
         - title: Research Engineer
           company: Iranian Blood Research and Fractionation (IBRF)
           company_url: 'https://www.linkedin.com/company/ibrf/'
@@ -299,15 +299,15 @@ sections:
           location: Tehran, Iran
           date_start: '2015-05-01'
           date_end: '2015-12-30'
-          # description: |2-
-          #     Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
+          description: |2-
+              # Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Mammalian cell culture.
-          #     * Antibody production.
-          #     * Antibody production quality control tests.
-          #     * Developing downstream processes for antibody purification.
+              * Mammalian cell culture.
+              * Antibody production.
+              * Antibody production quality control tests.
+              * Developing downstream processes for antibody purification.
         - title: Research Assistant
           company: Institute for Research in Fundamental Sciences (IPM)
           company_url: 'https://www.ipm.ac.ir/'
@@ -315,14 +315,14 @@ sections:
           location: Tehran, Iran
           date_start: '2013-10-01'
           date_end: '2015-04-01'
-          # description: |2-
-          #     Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
+          description: |2-
+              # Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Constraint-based modeling.
-          #     * Metabolic modeling.
-          #     * Defining benchmarking concepts for testing metabolic modeling tools.
+              * Constraint-based modeling.
+              * Metabolic modeling.
+              * Defining benchmarking concepts for testing metabolic modeling tools.
         - title: MSc in Cell and Molecular Biology
           company: National Institute of Genetic Engineering and Biotechnology (NIGEB)
           company_url: 'https://www.nigeb.ac.ir/web/en'
@@ -330,17 +330,17 @@ sections:
           location: Tehran, Iran
           date_start: '2008-08-01'
           date_end: '2011-05-15'
-          # description: |2-
-          #     In my thesis, I constructed a genome-scale metabolic network for Bacillus licheniformis, drawing on similarities with Bacillus subtilis and utilizing data from the KEGG database. This model comprised 1324 metabolites and 1277 reactions. To validate its accuracy, I optimized the M9 minimal medium using the Tagouchi method to create favorable growth conditions and then explored growth patterns across various glucose concentrations. Using continuous fermentation at different dilution rates, I measured glucose uptake fluxes per gram of cell dry weight. Comparing these experimental results to the predictions of the computational model showcased strong agreement between in vitro and in silico experiments across diverse glucose concentrations. Additionally, I applied this reconstructed model to optimize 2,3-butanediol production using OptKnock, identifying two genes whose theoretical deletion could potentially enhance 2,3-butanediol production in Bacillus licheniformis by around 31%.
+          description: |2-
+              # In my thesis, I constructed a genome-scale metabolic network for Bacillus licheniformis, drawing on similarities with Bacillus subtilis and utilizing data from the KEGG database. This model comprised 1324 metabolites and 1277 reactions. To validate its accuracy, I optimized the M9 minimal medium using the Tagouchi method to create favorable growth conditions and then explored growth patterns across various glucose concentrations. Using continuous fermentation at different dilution rates, I measured glucose uptake fluxes per gram of cell dry weight. Comparing these experimental results to the predictions of the computational model showcased strong agreement between in vitro and in silico experiments across diverse glucose concentrations. Additionally, I applied this reconstructed model to optimize 2,3-butanediol production using OptKnock, identifying two genes whose theoretical deletion could potentially enhance 2,3-butanediol production in Bacillus licheniformis by around 31%.
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Constraint-based modeling.
-          #     * Metabolic modeling.
-          #     * Metabolic Engineering.
-          #     * Microbial batch and fed-batch fermentation.
-          #     * Protein purification.
-          #     * Targeted metabolomics.
+              * Constraint-based modeling.
+              * Metabolic modeling.
+              * Metabolic Engineering.
+              * Microbial batch and fed-batch fermentation.
+              * Protein purification.
+              * Targeted metabolomics.
         - title: BSc in Cell and Molecular Biology
           company: Isfahan University
           company_url: 'https://www.ui.ac.ir/EN'
