@@ -13,13 +13,13 @@ location: Bielefeld, Germany
 #   country: United States
 
 summary: Advancing spatially resolved transcriptomics demands community-driven benchmarking, spotlighted by Nature's call to action using OpenEBench and OMNIBENCHMARK platforms for tool evaluation and dataset curation.
-abstract: 'Spatially resolved transcriptomics enables the examination of gene expression within the natural tissue setting. We're witnessing a surge in tool development for subsequent analyses, alongside the rise of datasets commonly used to assess new tool quality. Despite this, there's a gap in a community-led, ongoing assessment of spatially resolved transcriptomics tools. A recent Nature article underscores the importance of remedying this through benchmarking facilitated by OpenEBench and OMNIBENCHMARK platforms. These platforms offer a structure for organizing computational tools and reference datasets, aiming for adaptability as new computational methods arise.'
+abstract: Spatially resolved transcriptomics enables the examination of gene expression within the natural tissue setting. We're witnessing a surge in tool development for subsequent analyses, alongside the rise of datasets commonly used to assess new tool quality. Despite this, there's a gap in a community-led, ongoing assessment of spatially resolved transcriptomics tools. A recent Nature article underscores the importance of remedying this through benchmarking facilitated by OpenEBench and OMNIBENCHMARK platforms. These platforms offer a structure for organizing computational tools and reference datasets, aiming for adaptability as new computational methods arise.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2023-12-10T13:00:00Z'
+date_end: '2023-12-15T13:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
