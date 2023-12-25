@@ -3,9 +3,13 @@ title: HumanSec
 summary: Toolbox for generating protein-secretion genome-scale model for Human.
 
 tags:
-  - proein secretion
+  - protein secretion
   - cell-line development
   - protein production
+  - genome-scale modeling
+  - human cell line
+  - GEM
+  - HumanSec
 date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
