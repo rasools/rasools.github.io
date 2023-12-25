@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I’m a computational biologist, passionate about understanding biology using math and computers. I’m currently located in Gothenburg, Sweden, working as a staff research scientist at Chalmers University.
+I'm a computational biologist who traded microscopes for algorithms. Using math and computers I explore the thrilling possibilities in my digital laboratory! I’m currently located in Gothenburg, Sweden, working as a staff research scientist at Chalmers University.
 {style="text-align: justify;"}
