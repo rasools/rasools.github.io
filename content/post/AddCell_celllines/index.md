@@ -42,9 +42,8 @@ tags:
   - tp53
   - hTERTRPE1
 
-# categories:
-#   - Demo
-#   - 教程
+categories:
+  - Demo
 ---
 
 ## Overview
