@@ -29,10 +29,10 @@ bio: My research interests include multi-omics integration, metabolic modeling, 
 
 # Interests to show in About widget
 interests:
-  - Biomarkers and drug targets discovery
+  - Biomarkers discovery
   - Precision medicine
   - Integrative omics analysis
-  - Cell-line optimization
+  - Cell factory design
   - Metabolic modeling
   - Genome editing
   - Structural biology
