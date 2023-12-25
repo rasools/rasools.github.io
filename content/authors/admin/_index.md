@@ -33,15 +33,15 @@ interests:
   - Precision medicine
   - Integrative omics analysis
   - Cell-line optimization
-  - Cycling
-  - Swimming
-  - Podcasts
+  - Metabolic modeling
+  - Genome editing
+  - Structural biology
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Systems Biology
-      institution: Chalmers University of technology
+      institution: Chalmers University of Technology
       year: 2021
     - course: Msc in Cell and Molecular Biology
       institution: National Institute of Genetic Engineering and Biotechnology (NIGEB)
