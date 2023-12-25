@@ -211,15 +211,15 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2022-09-01'
           date_end: ''
-          # description: |2-
-          #     As a bioinformatics scientist currently working at NBIS – National Bioinformatics Infrastructure Sweden – I am supporting various computational biology projects within academic research groups in Sweden. In this position, I have honed my data analysis skills across multiple bioinformatics disciplines, including spatial transcriptomics, biomarker discovery, understanding drug mechanisms of action, and identifying new drug candidates. My experience has also allowed me to excel in reporting and presenting analysis results in a clear and understandable manner to diverse audiences.
+          description: |2-
+              As a bioinformatics scientist currently working at NBIS – National Bioinformatics Infrastructure Sweden – I am supporting various computational biology projects within academic research groups in Sweden. In this position, I have honed my data analysis skills across multiple bioinformatics disciplines, including spatial transcriptomics, biomarker discovery, understanding drug mechanisms of action, and identifying new drug candidates. My experience has also allowed me to excel in reporting and presenting analysis results in a clear and understandable manner to diverse audiences.
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Bioinformatics support of research projects
-          #     * Training duties
-          #     * Report preparation and documentation
-          #     * Scinetific presentation
+              * Bioinformatics support of research projects
+              * Training duties
+              * Report preparation and documentation
+              * Scinetific presentation
         - title: Project Leader
           company: AddCell
           company_url: 'https://addcell.org/'
@@ -227,18 +227,18 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2022-01-22'
           date_end: ''
-          # description: |2-
-          #     Since its invention in 2012, CRISPR technology has transformed the face of life science by enabling the generation of thousands of cell lines originating from a wide range of tissues and a myriad of transgenic animals recapitulating disease phenotypes. Huge excitement around the revolutionary aspects of CRISPR-based studies and increasing support from funding agencies have been translated into the number of edited cell lines vastly growing by every year. AddCell provides the research community, legislators, regulators, and the general public a large and in-depth overview of the current status of CRISPR edited cell lines.
-          #     description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Since its invention in 2012, CRISPR technology has transformed the face of life science by enabling the generation of thousands of cell lines originating from a wide range of tissues and a myriad of transgenic animals recapitulating disease phenotypes. Huge excitement around the revolutionary aspects of CRISPR-based studies and increasing support from funding agencies have been translated into the number of edited cell lines vastly growing by every year. AddCell provides the research community, legislators, regulators, and the general public a large and in-depth overview of the current status of CRISPR edited cell lines.
+              description: Taught electronic engineering and researched semiconductor physics.
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Project Management
-          #     * Natural Language Processing (NLP)
-          #     * Web Development
-          #     * Team Management
-          #     * Project Planning
-          #     * Fundraising
+              * Project Management
+              * Natural Language Processing (NLP)
+              * Web Development
+              * Team Management
+              * Project Planning
+              * Fundraising
         - title: Postdoctoral Researcher
           company: Chalmers University of Technology
           company_url: 'https://www.chalmers.se/en/'
@@ -246,17 +246,17 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2021-09-01'
           date_end: '2022-08-30'
-          # description: |2-
-          #     During my postdoctoral tenure, I spearheaded the development and application of the HumanSec toolbox to model cellular protein production processes. This initiative centered on utilizing proteomics data linked to Alzheimer's disease with the objective of elucidating pathways influencing the amplification and advancement of AD. Throughout this project, I refined my proficiency in package development, specializing in modeling protein secretion, and deepened my comprehension of the complex biological mechanisms underpinning brain neurology.
+          description: |2-
+              During my postdoctoral tenure, I spearheaded the development and application of the HumanSec toolbox to model cellular protein production processes. This initiative centered on utilizing proteomics data linked to Alzheimer's disease with the objective of elucidating pathways influencing the amplification and advancement of AD. Throughout this project, I refined my proficiency in package development, specializing in modeling protein secretion, and deepened my comprehension of the complex biological mechanisms underpinning brain neurology.
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Cancer Biology
-          #     * Protein secretion modeling
-          #     * Metabolic modeling
-          #     * Brain neurology
-          #     * Biomarker/drug discovery
-          #     * Multi-omics data integration and analysis
+              * Cancer Biology
+              * Protein secretion modeling
+              * Metabolic modeling
+              * Brain neurology
+              * Biomarker/drug discovery
+              * Multi-omics data integration and analysis
         - title: PhD in Systems Biology
           company: Chalmers University of Technology
           company_url: 'https://www.chalmers.se/en/'
@@ -264,19 +264,19 @@ sections:
           location: Gothenburg, Sweden
           date_start: '2016-08-22'
           date_end: '2021-08-30'
-          # description: |2-
-          #     Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications.
+          description: |2-
+              Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications.
 
-          #     My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. Read my thesis [here](https://research.chalmers.se/en/publication/524959).
+              My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. Read my thesis [here](https://research.chalmers.se/en/publication/524959).
 
-          #     Responsibilities include:
+              Responsibilities include:
 
-          #     * Cancer Biology
-          #     * Protein secretion modeling
-          #     * Metabolic modeling
-          #     * Brain neurology
-          #     * Biomarker/drug discovery
-          #     * Multi-omics data integration and analysis
+              * Cancer Biology
+              * Protein secretion modeling
+              * Metabolic modeling
+              * Brain neurology
+              * Biomarker/drug discovery
+              * Multi-omics data integration and analysis
         - title: Research Engineer
           company: AryoGen Pharmed
           company_url: 'https://www.aryogen.com/wp/home-2/'
@@ -285,7 +285,7 @@ sections:
           date_start: '2016-01-01'
           date_end: '2016-03-30'
           description: |2-
-              # I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
+              I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
 
               Responsibilities include:
 
@@ -300,7 +300,7 @@ sections:
           date_start: '2015-05-01'
           date_end: '2015-12-30'
           description: |2-
-              # Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
+              Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
 
               Responsibilities include:
 
@@ -316,7 +316,7 @@ sections:
           date_start: '2013-10-01'
           date_end: '2015-04-01'
           description: |2-
-              # Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
+              Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
 
               Responsibilities include:
 
@@ -331,7 +331,7 @@ sections:
           date_start: '2008-08-01'
           date_end: '2011-05-15'
           description: |2-
-              # In my thesis, I constructed a genome-scale metabolic network for Bacillus licheniformis, drawing on similarities with Bacillus subtilis and utilizing data from the KEGG database. This model comprised 1324 metabolites and 1277 reactions. To validate its accuracy, I optimized the M9 minimal medium using the Tagouchi method to create favorable growth conditions and then explored growth patterns across various glucose concentrations. Using continuous fermentation at different dilution rates, I measured glucose uptake fluxes per gram of cell dry weight. Comparing these experimental results to the predictions of the computational model showcased strong agreement between in vitro and in silico experiments across diverse glucose concentrations. Additionally, I applied this reconstructed model to optimize 2,3-butanediol production using OptKnock, identifying two genes whose theoretical deletion could potentially enhance 2,3-butanediol production in Bacillus licheniformis by around 31%.
+              In my thesis, I constructed a genome-scale metabolic network for Bacillus licheniformis, drawing on similarities with Bacillus subtilis and utilizing data from the KEGG database. This model comprised 1324 metabolites and 1277 reactions. To validate its accuracy, I optimized the M9 minimal medium using the Tagouchi method to create favorable growth conditions and then explored growth patterns across various glucose concentrations. Using continuous fermentation at different dilution rates, I measured glucose uptake fluxes per gram of cell dry weight. Comparing these experimental results to the predictions of the computational model showcased strong agreement between in vitro and in silico experiments across diverse glucose concentrations. Additionally, I applied this reconstructed model to optimize 2,3-butanediol production using OptKnock, identifying two genes whose theoretical deletion could potentially enhance 2,3-butanediol production in Bacillus licheniformis by around 31%.
 
               Responsibilities include:
 
