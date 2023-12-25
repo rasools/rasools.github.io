@@ -42,14 +42,6 @@ sections:
       title: Hi, I am Rasool!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: skills
-  #   content:
-  #     title: Skills
-  #     text: ''
-  #     # Choose a user to display skills from (a folder name within `content/authors/`)
-  #     username: admin
-  #   design:
-  #     columns: '1'
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -349,9 +341,16 @@ sections:
           date_start: '2006-08-01'
           date_end: '2011-05-15'
           description: |2-
-
     design:
       columns: '2'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: tag_cloud
     content:
       title: I talk about
