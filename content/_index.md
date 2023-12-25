@@ -76,7 +76,7 @@ sections:
         - name: AddCell
           tag: addcell
         - name: Protein secretion
-          tag: Protein secretion
+          tag: protein secretion
         - name: Other
           tag: Demo
     design:
