@@ -263,7 +263,7 @@ sections:
 
               My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. 
               
-              Read my thesis [here](https://research.chalmers.se/en/publication/524959).
+              **Read my thesis** [here](https://research.chalmers.se/en/publication/524959).
 
               Responsibilities include:
 
