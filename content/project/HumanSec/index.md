@@ -1,6 +1,6 @@
 ---
 title: HumanSec
-summary: Toolbox for generating protein-secretion genome-scale model for Human.
+summary: The HumanSec toolbox represents a step forward, expanding upon the reference human genome-scale metabolic model. By incorporating protein-specific reactions tied to each secretory protein within our proteomics dataset, it aims to shed light on the competition for essential metabolic and energetic resources between host cell proteins (HCPs) and recombinant protein production. Through the creation of cell-line specific protein secretion models and leveraging metabolomics data, HumanSec endeavors to identify influential genes and pathways impacting recombinant protein production. These findings hold promise for targeted cell factory design but are presented with cautious optimism, recognizing the complexities and challenges inherent in this area of research. Moreover, while it explores protein production pathways in proteopathy diseases, HumanSec seeks to contribute to the understanding of protein folding and misfolding mechanisms. Its aspiration is to offer insights into these intricate pathways involved in pathological conditions, mindful of the vast amount yet to be discovered in this field.
 
 tags:
   - protein secretion
