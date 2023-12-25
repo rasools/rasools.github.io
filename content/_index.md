@@ -231,6 +231,8 @@ sections:
               * Team Management
               * Project Planning
               * Fundraising
+              * Supervision of master's students
+              * Pitching
         - title: Postdoctoral Researcher
           company: Chalmers University of Technology
           company_url: 'https://www.chalmers.se/en/'
@@ -252,6 +254,7 @@ sections:
         - title: PhD in Systems Biology
           company: Chalmers University of Technology
           company_url: 'https://www.chalmers.se/en/'
+          url: 'https://research.chalmers.se/en/publication/524959'
           company_logo: ""
           location: Gothenburg, Sweden
           date_start: '2016-08-22'
@@ -269,6 +272,10 @@ sections:
               * Brain neurology
               * Biomarker/drug discovery
               * Multi-omics data integration and analysis
+              * Supervision of master's students
+              * Teaching assistant
+              * Course development
+              * Project planning
         - title: Research Engineer
           company: AryoGen Pharmed
           company_url: 'https://www.aryogen.com/wp/home-2/'
