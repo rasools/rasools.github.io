@@ -254,7 +254,6 @@ sections:
         - title: PhD in Systems Biology
           company: Chalmers University of Technology
           company_url: 'https://www.chalmers.se/en/'
-          url: 'https://research.chalmers.se/en/publication/524959'
           company_logo: ""
           location: Gothenburg, Sweden
           date_start: '2016-08-22'
@@ -262,7 +261,9 @@ sections:
           description: |2-
               Title: Systems Biology of Protein Secretion in Human Cells – Multi-omics Analysis and Modeling of the Protein Secretion Process in Human Cells and its Applications.
 
-              My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. Read my thesis [here](https://research.chalmers.se/en/publication/524959).
+              My doctoral thesis focused on elucidating the intricate process of protein secretion within human cells and its significance in both medical advancements and disease understanding. I delved into the complexities of how cells produce and release proteins, vital for various functions including hormone signaling and disease development. By employing high-throughput molecular profiling techniques, I examined the inner workings of protein secretion components within cells. Utilizing computational models, I deciphered how alterations in these components impact protein production outcomes. My research identified key genes crucial in optimizing pharmaceutical protein production and highlighted potential biomarkers and drug targets for diagnosing and treating conditions like cancer. 
+              
+              Read my thesis [here](https://research.chalmers.se/en/publication/524959).
 
               Responsibilities include:
 
