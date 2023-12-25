@@ -57,7 +57,7 @@ skills:
     items:
       - name: coding
         description: 'Python, R, Bash, Matlab'
-        icon: python
+        icon: laptop-code
         icon_pack: fas
       - name: Data Science
         description: ''
