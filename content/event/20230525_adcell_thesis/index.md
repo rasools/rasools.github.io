@@ -1,10 +1,10 @@
 ---
-title: AddCell presented at the CRISPR as a research tool in cancer and regenerative medicine.
+title: Sandra and Brage successfully defended their master thesis!
 
-event: CRISPR as a research tool in cancer and regenerative medicine
-event_url: https://www.scilifelab.se/event/crispr-as-a-research-tool-scilifelab-international-symposium/
+event: Master thesis presentation - Key Sentence Extraction From CRISPR-Cas9 Articles Using Sentence Transformers
+event_url: https://masterthesis.cms.chalmers.se/content/key-sentence-extraction-crispr-cas9-articles-using-sentence-transformers
 
-location: Karolinska Institutet, Sweden
+location: Chalmers University of Technology, Sweden
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -14,14 +14,25 @@ location: Karolinska Institutet, Sweden
 
 summary: The two-day conference united global experts in CRISPR technology, focusing on its applications in cancer research and regenerative medicine.
 
+abstract: The annotation of CRISPR-related articles and extraction of key content has traditionally relied on manual efforts. Manual annotation is error-prone and timeconsuming. This thesis presents an alternative approach using transfer learning and
+pre-trained models based on the Transformer architecture. Specifically, Sentence
+Transformer models are fine-tuned using a CRISPR-related dataset. The dataset
+contains articles and key sentences, enabling automatic extraction of keyphrases.
+The study explores various modifications to the models and data to enhance performance for this task.
+The results demonstrate the effectiveness of fine-tuning Sentence Transformer models for keyphrase extraction, achieving an Average R-precision of 90.4 %. Future
+research could focus on alternative approaches or further automation to identify entities and relations within key sentences. Key sentence extraction is complex due
+to the varying definitions of key content, content location, and specific use cases.
+However, the potential benefits of time savings and improved workflow efficiency
+make this approach highly valuable.
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-25T13:00:00Z'
-date_end: '2023-05-26T13:00:00Z'
+date: '2023-05-07T13:00:00Z'
+date_end: '2023-05-07T13:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-05-27T13:00:00Z'
+publishDate: '2023-05-07T13:00:00Z'
 
 authors:
   - admin
@@ -35,8 +46,11 @@ tags:
   - gene editing
   - crisprcas9
   - tp53
-  - hTERTRPE1
-
+  - NLP
+  - Transformers
+  - CRISPR
+  - semantic search
+  - keyphrase extraction
 categories:
   - AddCell
 
@@ -88,7 +102,5 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
 
-Over the course of two days in [CRISPR as a research tool in cancer and regenerative medicine](https://www.scilifelab.se/event/crispr-as-a-research-tool-scilifelab-international-symposium/) international iymposium, a gathering was held that brought together prominent international experts specializing in CRISPR technology and its applications in fundamental cancer research and regenerative medicine. Attendees had the chance to delve into a more comprehensive comprehension of CRISPR's capabilities and constraints as a research instrument. This encompassed its role in precise genome editing, as well as its application in extensive functional genomics studies and impartial screenings. Additionally, we showcased the latest advancements in our AddCell project during this conference.
-
-Kudos 👏🏻 to [Nupur](https://www.linkedin.com/in/nupur-kumar-32579539/) for perfectlly presenting us there!
-![jpg](nupur.jpg)
+Kudos 👏🏻 to Sandra and Brage for perfectlly conducting their master thesis work. The model that they developed is now being used in AddCell's CRISPR search engine and greatly improves the search results.
+The thesis was conducted in a collaboration between life science and computer science departments at Chalmers University of Technology and under the supervision of [Mehrdad Farahani](https://www.chalmers.se/en/persons/mehrdadf/) and Rasool Saghaleyni. Special thanks to [Richard Johansson](https://www.cse.chalmers.se/~richajo/) for his valuable feedback and support.
