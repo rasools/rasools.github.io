@@ -6,6 +6,12 @@ tags:
   - gene editing
   - genome editing
   - addcell
+  - NLP
+  - Transformers
+  - semantic search
+  - keyphrase extraction
+  - NLP
+  - deep learning
 date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
