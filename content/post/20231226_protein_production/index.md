@@ -1,7 +1,7 @@
 ---
 title: Exploring Protein Production - Cell-Lines vs. Plasma Extraction Methods
 
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Comparative Analysis of Protein Harvesting Methods, Cell-Line Production vs. Plasma Extraction
 
 # Summary for listings and search engines
 summary: This academic review aims to explore and contrast two primary methods employed in the procurement of proteins for therapeutic and research applications. Cell-line protein production and extraction from plasma. The comparison involves an in-depth examination of the advantages, limitations, regulatory nuances, production challenges, and economic implications associated with each method. By dissecting these intricacies, this study seeks to provide a comprehensive understanding of the complexities and implications underlying protein production methodologies.
