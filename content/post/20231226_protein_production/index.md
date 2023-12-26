@@ -10,10 +10,10 @@ summary: This academic review aims to explore and contrast two primary methods e
 projects: [Protein secretion]
 
 # Date published
-date: '2020-12-26T00:00:00Z'
+date: '2023-12-26T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: fasle
