@@ -14,9 +14,6 @@ location: Chalmers University of Technology, Sweden
 
 summary: The two-day conference united global experts in CRISPR technology, focusing on its applications in cancer research and regenerative medicine.
 
-abstract: The annotation of CRISPR-related articles and extraction of key content has traditionally relied on manual efforts. Manual annotation is error-prone and timeconsuming. This thesis presents an alternative approach using transfer learning and pre-trained models based on the Transformer architecture. Specifically, Sentence Transformer models are fine-tuned using a CRISPR-related dataset. The dataset contains articles and key sentences, enabling automatic extraction of
-keyphrases. The study explores various modifications to the models and data to enhance performance for this task. The results demonstrate the effectiveness of fine-tuning Sentence Transformer models for keyphrase extraction, achieving an Average R-precision of 90.4 %. Future research could focus on alternative approaches or further automation to identify entities and relations within key sentences. Key sentence extraction is complex due to the varying definitions of key content, content location, and specific use cases. However, the potential benefits of time savings and improved workflow efficiency make this approach highly valuable.
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-05-07T13:00:00Z'
@@ -93,6 +90,10 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+
+abstract: The annotation of CRISPR-related articles and extraction of key content has traditionally relied on manual efforts. Manual annotation is error-prone and timeconsuming. This thesis presents an alternative approach using transfer learning and pre-trained models based on the Transformer architecture. Specifically, Sentence Transformer models are fine-tuned using a CRISPR-related dataset. The dataset contains articles and key sentences, enabling automatic extraction of keyphrases. The study explores various modifications to the models and data to enhance performance for this task. The results demonstrate the effectiveness of fine-tuning Sentence Transformer models for keyphrase extraction, achieving an Average R-precision of 90.4 %. Future research could focus on alternative approaches or further automation to identify entities and relations within key sentences. Key sentence extraction is complex due to the varying definitions of key content, content location, and specific use cases. However, the potential benefits of time savings and improved workflow efficiency make this approach highly valuable.
+
+Read the full thesis [here](https://odr.chalmers.se/server/api/core/bitstreams/4e0d5aaa-0c6b-4d28-8d6d-a8825690bc43/content).
 
 Kudos 👏🏻 to Sandra and Brage for perfectlly conducting their master thesis work. The model that they developed is now being used in AddCell's CRISPR search engine and greatly improves the search results.
 The thesis was conducted in a collaboration between life science and computer science departments at Chalmers University of Technology and under the supervision of [Mehrdad Farahani](https://www.chalmers.se/en/persons/mehrdadf/) and Rasool Saghaleyni. Special thanks to [Richard Johansson](https://www.cse.chalmers.se/~richajo/) for his valuable feedback and support.
