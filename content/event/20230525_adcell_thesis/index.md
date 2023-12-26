@@ -1,7 +1,7 @@
 ---
 title: Sandra and Brage successfully defended their Master thesis!
 
-event: Master thesis presentation - Key Sentence Extraction From CRISPR-Cas9 Articles Using Sentence Transformers
+event: Master thesis presentation
 event_url: https://masterthesis.cms.chalmers.se/content/key-sentence-extraction-crispr-cas9-articles-using-sentence-transformers
 
 location: Chalmers University of Technology, Sweden
@@ -12,7 +12,7 @@ location: Chalmers University of Technology, Sweden
 #   postcode: '94305'
 #   country: United States
 
-summary: The two-day conference united global experts in CRISPR technology, focusing on its applications in cancer research and regenerative medicine.
+summary: Master thesis presentation - Key Sentence Extraction From CRISPR-Cas9 Articles Using Sentence Transformers
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
