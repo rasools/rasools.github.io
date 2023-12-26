@@ -1,10 +1,10 @@
 ---
-title: AddCell presented at the CRISPR as a research tool in cancer and regenerative medicine.
+title:  Space Hack 2.0
 
-event: [ELIXIR-DE-Hackathons](https://www.scilifelab.se/event/crispr-as-a-research-tool-scilifelab-international-symposium/)
-event_url: https://www.scilifelab.se/event/crispr-as-a-research-tool-scilifelab-international-symposium/
+event: ELIXIR-DE-Hackathons
+event_url: https://spatialhackathon.github.io/
 
-location: Karolinska Institutet, Sweden
+location: Bielefeld, Germany
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
