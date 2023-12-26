@@ -1,10 +1,10 @@
 ---
 title:  AddCell presented at the CRISPR as a research tool in cancer and regenerative medicine.
 
-event: ELIXIR-DE-Hackathons
-event_url: https://spatialhackathon.github.io/
+event: CRISPR as a research tool in cancer and regenerative medicine
+event_url: https://www.scilifelab.se/event/crispr-as-a-research-tool-scilifelab-international-symposium/
 
-location: Bielefeld, Germany
+location: Karolinska Institutet, Sweden
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
