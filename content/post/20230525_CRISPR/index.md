@@ -43,7 +43,6 @@ tags:
   - hTERTRPE1
 
 categories:
-  - Demo
   - AddCell
 ---
 
