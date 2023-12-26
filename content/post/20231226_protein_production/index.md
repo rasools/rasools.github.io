@@ -16,7 +16,7 @@ date: '2020-12-26T00:00:00Z'
 lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: fasle
 
 # Show this page in the Featured widget?
 featured: false
@@ -24,14 +24,13 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Protein secretion
@@ -54,65 +53,49 @@ categories:
   - Protein secretion
 ---
 
-## Overview
+### Cell-Line Protein Production
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+#### Pros:
+1. **Customization:** Cell-line production allows for genetic modifications, enabling the creation of proteins tailored to specific needs.
+2. **Scalability:** It offers the potential for large-scale production, catering to high demands.
+3. **Consistency:** Controlled environments in bioreactors facilitate relatively consistent protein quality and quantity.
+   
+#### Cons:
+1. **Costly Setup:** Initial investment in infrastructure, cell line development, and optimization can be substantial.
+2. **Complexity:** Managing cell cultures involves intricate processes prone to contamination and variability.
+3. **Post-Translational Modifications (PTMs):** Challenges exist in achieving fully human-compatible PTMs in proteins produced within certain cell lines like CHO cells, impacting functionality.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
+### Plasma Extraction Method
 
-## Get Started
+#### Pros:
+1. **Natural Source:** Plasma extraction retrieves proteins from a naturally occurring fluid, potentially yielding native-like proteins.
+2. **Diverse Proteins:** Provides access to a wide array of proteins naturally present in plasma.
+3. **Reduced Setup:** Does not require the elaborate infrastructure needed for cell-line production.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
+#### Cons:
+1. **Limited Yield:** Extraction may yield lower quantities of specific proteins compared to cell-line production.
+2. **Purity Concerns:** Contaminants from plasma could pose purification challenges, impacting protein quality.
+3. **Regulatory Challenges:** Stringent regulations regarding the collection and processing of human-derived materials can pose hurdles.
 
-## Crowd-funded open-source software
+### Regulatory Affairs and Preferences
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Regulatory bodies often emphasize safety, quality, and consistency in protein production. While both methods face scrutiny, there might be a preference for cell-line production due to better control over manufacturing processes and reduced risk of contamination from biological sources like plasma.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://hugoblox.com/sponsor/)
+### Current Production Challenges
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+**Cell-Line Challenges:**
+1. **PTM Consistency:** Achieving precise and consistent PTMs remains a significant hurdle.
+2. **Scale-Up Issues:** Transitioning from laboratory-scale to commercial-scale production without compromising quality.
+3. **Cell Line Stability:** Ensuring long-term stability and reproducibility of cell lines.
 
-## Ecosystem
+**Plasma Extraction Challenges:**
+1. **Purification Complexity:** Removing impurities and contaminants from plasma-derived proteins.
+2. **Ethical Concerns:** Ensuring ethical sourcing of plasma and adhering to stringent regulatory requirements.
+3. **Standardization:** Ensuring consistent protein extraction from varying plasma samples.
 
-- **[Hugo Academic CLI](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+### Cost Analysis and Case Studies
 
-## Inspiration
+While production costs can vary significantly based on scale, infrastructure, and process optimization, specific case studies provide insights. For instance, a study comparing the cost of producing a particular protein using both methods might reveal the economic implications. However, cost evaluations typically encompass infrastructure, raw materials, labor, and purification processes, making it a multifaceted analysis.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://hugoblox.com/user-stories/) of personal, project, and business sites.
+In conclusion, the choice between cell-line production and plasma extraction for protein production depends on the desired protein, scale, regulatory considerations, and economic viability. As technology advances and research addresses existing challenges, the landscape of protein production continues to evolve, promising novel solutions and opportunities for the medical and biotechnological fields.
 
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/content/writing-markdown-latex/), [**Jupyter**](https://docs.hugoblox.com/import/jupyter/), or [**RStudio**](https://docs.hugoblox.com/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
