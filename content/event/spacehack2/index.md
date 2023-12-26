@@ -1,5 +1,5 @@
 ---
-title:  AddCell presented at the CRISPR as a research tool in cancer and regenerative medicine.
+title:  Space Hack 2.0
 
 event: ELIXIR-DE-Hackathons
 event_url: https://spatialhackathon.github.io/
