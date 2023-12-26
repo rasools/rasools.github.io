@@ -34,18 +34,25 @@ authors:
   - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Protein secretion
+  - Cell-line
+  - Plasma extraction
+  - Protein production
+  - Protein purification
+  - Protein expression
+  - cell culture
+  - bioreactor
+  - bioprocessing
+  - biotechnology
+  - biopharmaceutical
+  - biomanufacturing
+  - Cell-line optimization
+  - Super producer cell-line
+  - cell factory design
 
 categories:
-  - Demo
-  - 教程
+  - Protein secretion
 ---
-
-```python
-import libr
-print('hello')
-```
 
 ## Overview
 
