@@ -1,5 +1,5 @@
 ---
-title: Sandra and Brage successfully defended their master thesis!
+title: Sandra and Brage successfully defended their Master thesis!
 
 event: Master thesis presentation - Key Sentence Extraction From CRISPR-Cas9 Articles Using Sentence Transformers
 event_url: https://masterthesis.cms.chalmers.se/content/key-sentence-extraction-crispr-cas9-articles-using-sentence-transformers
@@ -95,5 +95,5 @@ abstract: The annotation of CRISPR-related articles and extraction of key conten
 
 Read the full thesis [here](https://odr.chalmers.se/server/api/core/bitstreams/4e0d5aaa-0c6b-4d28-8d6d-a8825690bc43/content).
 
-Kudos 👏🏻 to Sandra and Brage for perfectlly conducting their master thesis work. The model that they developed is now being used in AddCell's CRISPR search engine and greatly improves the search results.
+Kudos 👏🏻 to Sandra and Brage for perfectlly conducting their Master thesis work. The model that they developed is now being used in AddCell's CRISPR search engine and greatly improves the search results.
 The thesis was conducted in a collaboration between life science and computer science departments at Chalmers University of Technology and under the supervision of [Mehrdad Farahani](https://www.chalmers.se/en/persons/mehrdadf/) and Rasool Saghaleyni. Special thanks to [Richard Johansson](https://www.cse.chalmers.se/~richajo/) for his valuable feedback and support.
