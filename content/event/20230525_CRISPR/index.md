@@ -12,8 +12,7 @@ location: Karolinska Institutet, Sweden
 #   postcode: '94305'
 #   country: United States
 
-summary: Advancing spatially resolved transcriptomics demands community-driven benchmarking, spotlighted by Nature's call to action using OpenEBench and OMNIBENCHMARK platforms for tool evaluation and dataset curation.
-abstract: Spatially resolved transcriptomics enables the examination of gene expression within the natural tissue setting. We're witnessing a surge in tool development for subsequent analyses, alongside the rise of datasets commonly used to assess new tool quality. Despite this, there's a gap in a community-led, ongoing assessment of spatially resolved transcriptomics tools. A recent Nature article underscores the importance of remedying this through benchmarking facilitated by OpenEBench and OMNIBENCHMARK platforms. These platforms offer a structure for organizing computational tools and reference datasets, aiming for adaptability as new computational methods arise.
+summary: The two-day conference united global experts in CRISPR technology, focusing on its applications in cancer research and regenerative medicine.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -71,3 +70,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+
+Over the course of two days in [CRISPR as a research tool in cancer and regenerative medicine](https://www.scilifelab.se/event/crispr-as-a-research-tool-scilifelab-international-symposium/), a gathering was held that brought together prominent international experts specializing in CRISPR technology and its applications in fundamental cancer research and regenerative medicine. Attendees had the chance to delve into a more comprehensive comprehension of CRISPR's capabilities and constraints as a research instrument. This encompassed its role in precise genome editing, as well as its application in extensive functional genomics studies and impartial screenings. Additionally, we showcased the latest advancements in our AddCell project during this conference.
