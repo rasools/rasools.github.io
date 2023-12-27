@@ -204,7 +204,7 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              As a bioinformatics scientist currently working at NBIS – National Bioinformatics Infrastructure Sweden – I am supporting various computational biology projects within academic research groups in Sweden. In this position, I have honed my data analysis skills across multiple bioinformatics disciplines, including spatial transcriptomics, biomarker discovery, understanding drug mechanisms of action, and identifying new drug candidates. My experience has also allowed me to excel in reporting and presenting analysis results in a clear and understandable manner to diverse audiences.
+              As a bioinformatics scientist currently working at NBIS – National Bioinformatics Infrastructure Sweden – I am supporting various computational biology projects within academic research groups in Sweden. In this position, I have honed my data analysis skills across multiple bioinformatics disciplines, including spatial transcriptomics, biomarker discovery, understanding drug mechanisms of action, and identifying new drug candidates. My experience has also allowed me to excel in reporting and presenting analysis results clearly and understandably to diverse audiences.
 
               Responsibilities include:
 
@@ -284,7 +284,7 @@ sections:
           date_start: '2016-01-01'
           date_end: '2016-03-30'
           description: |2-
-              I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and additionally in developing chromatographic methods to quantify and control the quality of the
+              I was working in the PD (Process Development) department at AryoGen Biopharmed Company. More specifically, I was involved in designing bio-assay tests for evaluating the binding potency of monoclonal antibodies and was additionally involved in developing chromatographic methods to quantify and control the quality of the monoclonal antibodies.
 
               Responsibilities include:
 
@@ -299,7 +299,7 @@ sections:
           date_start: '2015-05-01'
           date_end: '2015-12-30'
           description: |2-
-              Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, our aim was to innovate and refine the production processes for optimal outcomes.
+              Within the cell culture department of the company, I actively collaborated with the Research and Development (R&D) as well as Quality Control (QC) departments on multiple projects. Together, we aimed to innovate and refine the production processes for optimal outcomes.
 
               Responsibilities include:
 
@@ -315,7 +315,7 @@ sections:
           date_start: '2013-10-01'
           date_end: '2015-04-01'
           description: |2-
-              Project title: Evaluation of cell growth modeling accuracy with respect to the biomass production reaction as the objective function in constraint based reconstruction of metabolic networks.
+              Project title: Evaluation of cell growth modeling accuracy concerning the biomass production reaction as the objective function in constraint-based reconstruction of metabolic networks.
 
               Responsibilities include:
 
