@@ -1,11 +1,11 @@
 ---
-title: Elixir Spatial Omics Data Analysis Workshop!
+title: 11th ELIXIR All Hands 2025
 
 
-event: Elixir Spatial Omics Data Analysis Workshop
+event: 11th ELIXIR All Hands meeting
 event_url: https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics
 
-location: Lausanne University, Switzerland
+location: Thessaloniki, Greece
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -13,32 +13,30 @@ location: Lausanne University, Switzerland
 #   postcode: '94305'
 #   country: United States
 
-summary: This course delves into the cutting-edge field of Spatial Omics, focusing on Spatially-Resolved Transcriptomics (SRT) technology which provides unprecedented insights into the spatial organization of gene expression within tissues. The rapid and recent advances in SRT technology are transforming our understanding of biological systems, and this course is designed to equip researchers with the tools to harness the power of SRT, adding significant value to biological knowledge and opening new avenues for scientific discovery.
+summary: The 11th ELIXIR All Hands meeting will take place from 2 to 5 June 2025 in Thessaloníki, Greece. This is a highly anticipated annual event for members of the ELIXIR community from across the ELIXIR Nodes and collaborators from partner organisations. It is an opportunity to review ELIXIR’s recent achievements and activities, and to discuss future plans.
+
+All Hands is a face-to-face meeting and the programme is focused on those attending in person. However, remote access to workshops will be possible, as well as limited access to the rest of the programme. These details will be confirmed closer to the event.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-01-21T13:00:00Z'
-date_end: '2025-01-24T13:00:00Z'
+date: '2025-06-02T13:00:00Z'
+date_end: '2025-06-05T13:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-02-01T13:00:00Z'
+publishDate: '2025-07-01T13:00:00Z'
 
 authors:
   - admin
 
 tags:
-  - SpatialOmics
-  - SpatiallyResolvedTranscriptomics
-  - SRT
-  - SpatialTranscriptomics
-  - SpatialOmicsDataAnalysis
-  - SpatialOmicsDataAnalysisWorkshop
-  - SpatialOmicsDataAnalysisWorkshop2025
-  - SpatialOmicsDataAnalysisWorkshop2025Lausanne
+  - ELIXIR
+  - AllHands
+  - Thessaloniki
+  - Greece
 
 categories:
-  - Training
+  - Conference
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -88,6 +86,6 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
 
-This course delves into the cutting-edge field of Spatial Omics, focusing on Spatially-Resolved Transcriptomics (SRT) technology which provides unprecedented insights into the spatial organization of gene expression within tissues. The rapid and recent advances in SRT technology are transforming our understanding of biological systems, and this course is designed to equip researchers with the tools to harness the power of SRT, adding significant value to biological knowledge and opening new avenues for scientific discovery.
+The 11th ELIXIR All Hands meeting will take place from 2 to 5 June 2025 in Thessaloníki, Greece. This is a highly anticipated annual event for members of the ELIXIR community from across the ELIXIR Nodes and collaborators from partner organisations. It is an opportunity to review ELIXIR’s recent achievements and activities, and to discuss future plans.
 
-Participants explored both imaging-based and sequencing-based SRT technologies, learning to navigate the entire workflow of SRT data analysis. The course covers essential topics such as pre-processing techniques for data cleaning, normalization, and quality control, methods for identifying and characterizing spatial domains within tissues, strategies for integrating SRT data with single-cell RNA sequencing data, and statistical approaches to analyze spatial patterns and relationships. Additionally, participants investigated interactions between cells within their spatial context. By the end of this course, participants equipped with the knowledge and skills to construct a complete workflow for SRT data analysis, from raw data to meaningful biological insights. The course combines lectures with practical sessions, ensuring a balanced approach to theory and hands-on experience.
+All Hands is a face-to-face meeting and the programme is focused on those attending in person. However, remote access to workshops will be possible, as well as limited access to the rest of the programme. These details will be confirmed closer to the event.
