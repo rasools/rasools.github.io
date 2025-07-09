@@ -92,7 +92,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 The aim of this workshop is to provide an integrated view of data-driven analysis of biological data through machine learning, graph and network analysis as well as constraint-based modeling integration methods. A general description of different approaches for working with multiple layers of biological information, i.e. Omics data (e.g. transcriptomics and genomics) will be presented with some of the lectures discussing their advantages and pitfalls. The techniques will be discussed in terms of their rationale and applicability.
 
-Topics covered will include:
+Topics covered include:
 
 - Data pre-processing, cleaning and feature selection prior to integration;
 - Application of key machine learning methods for multi-omics analysis including deep learning;
