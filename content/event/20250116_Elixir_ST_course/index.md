@@ -13,9 +13,10 @@ location: Thessaloniki, Greece
 #   postcode: '94305'
 #   country: United States
 
-summary: The 11th ELIXIR All Hands meeting will take place from 2 to 5 June 2025 in Thessaloníki, Greece. This is a highly anticipated annual event for members of the ELIXIR community from across the ELIXIR Nodes and collaborators from partner organisations. It is an opportunity to review ELIXIR’s recent achievements and activities, and to discuss future plans.
+summary: |-
+  The 11th ELIXIR All Hands meeting will take place from 2 to 5 June 2025 in Thessaloníki, Greece. This is a highly anticipated annual event for members of the ELIXIR community from across the ELIXIR Nodes and collaborators from partner organisations. It is an opportunity to review ELIXIR's recent achievements and activities, and to discuss future plans.
 
-All Hands is a face-to-face meeting and the programme is focused on those attending in person. However, remote access to workshops will be possible, as well as limited access to the rest of the programme. These details will be confirmed closer to the event.
+  All Hands is a face-to-face meeting and the programme is focused on those attending in person. However, remote access to workshops will be possible, as well as limited access to the rest of the programme. These details will be confirmed closer to the event.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -86,6 +87,6 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
 
-The 11th ELIXIR All Hands meeting will take place from 2 to 5 June 2025 in Thessaloníki, Greece. This is a highly anticipated annual event for members of the ELIXIR community from across the ELIXIR Nodes and collaborators from partner organisations. It is an opportunity to review ELIXIR’s recent achievements and activities, and to discuss future plans.
+The 11th ELIXIR All Hands meeting will take place from 2 to 5 June 2025 in Thessaloníki, Greece. This is a highly anticipated annual event for members of the ELIXIR community from across the ELIXIR Nodes and collaborators from partner organisations. It is an opportunity to review ELIXIR's recent achievements and activities, and to discuss future plans.
 
 All Hands is a face-to-face meeting and the programme is focused on those attending in person. However, remote access to workshops will be possible, as well as limited access to the rest of the programme. These details will be confirmed closer to the event.
