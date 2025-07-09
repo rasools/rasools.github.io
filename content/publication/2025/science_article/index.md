@@ -26,10 +26,10 @@ doi: "https://doi.org/10.1126/science.adu9575"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Science"
+publication: "Science journal"
 publication_short: ""
 
 abstract: "Continuous adult hippocampal neurogenesis is involved in memory formation and mood regulation but is challenging to study in humans. Difficulties finding proliferating progenitor cells called into question whether and how new neurons may be generated. We analyzed the human hippocampus from birth through adulthood by single-nucleus RNA sequencing. We identified all neural progenitor cell stages in early childhood. In adults, using antibodies against the proliferation marker Ki67 and machine learning algorithms, we found proliferating neural progenitor cells. Furthermore, transcriptomic data showed that neural progenitors were localized within the dentate gyrus. The results contribute to understanding neurogenesis in adult humans."
