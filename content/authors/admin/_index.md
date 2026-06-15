@@ -28,7 +28,7 @@ organizations:
 bio: Biotechnologist and data-driven project leader focused on biopharmaceutical operations, cross-functional delivery, and data-informed decision-making.
 
 # Interests to show in About widget
-expertise:
+interests:
   - Data-informed project leadership
   - Cross-functional project delivery
   - Stakeholder and customer communication
