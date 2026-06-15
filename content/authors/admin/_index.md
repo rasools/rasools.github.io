@@ -11,13 +11,13 @@ last_name: Saghaleyni
 
 # Status emoji
 status:
-  icon: 📊
+  icon: 🧭
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist | Process Analytics & Bioprocess Data Science
+role: Senior Project Leader
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,18 +25,18 @@ organizations:
     url: https://www.lonza.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD-trained data scientist and biotechnologist focused on process analytics, statistical modeling, dashboards, reproducible workflows, and data-driven decision support for biopharmaceutical manufacturing.
+bio: PhD-trained biotechnologist and data-driven project leader focused on cross-functional biopharmaceutical project delivery, stakeholder communication, GMP-aware execution, and data-informed decision-making.
 
 # Interests to show in About widget
 interests:
-  - Process analytics and operational data science
-  - MSAT data support and process understanding
-  - Multivariate and statistical modeling
-  - Trend monitoring and predictive modeling
-  - Dashboards and analytical views
-  - Reproducible data workflows
-  - Mammalian bioprocess and protein production
-  - GMP-aware documentation and data integrity
+  - Biopharmaceutical project leadership
+  - Cross-functional project delivery
+  - Customer and stakeholder communication
+  - Manufacturing campaign readiness
+  - GMP-aware change and deviation coordination
+  - Audit and inspection readiness
+  - Data-informed project management
+  - Process understanding and operational performance
 
 # Education to show in About widget
 education:
@@ -54,56 +54,51 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Project leadership
     items:
-      - name: Process analytics
-        description: 'Trend monitoring, process variability, performance drivers, troubleshooting support'
-        percent: 95
-        icon: chart-line
-        icon_pack: fas
-      - name: Statistical modeling
-        description: 'Multivariate analysis, dimensionality reduction, clustering, regression, machine learning, model interpretation'
-        percent: 95
-        icon: square-poll-vertical
-        icon_pack: fas
-      - name: Scientific programming
-        description: 'Python, R, Bash, SQL, MATLAB'
-        percent: 95
-        icon: laptop-code
-        icon_pack: fas
-      - name: Dashboards and reporting
-        description: 'R Shiny, Quarto, Jupyter, structured reports, stakeholder-facing analytical views'
-        percent: 90
-        icon: chart-pie
-        icon_pack: fas
-      - name: Reproducible workflows
-        description: 'Nextflow, Snakemake, Git/GitHub, Docker/Apptainer, HPC and cloud environments'
-        percent: 90
-        icon: gears
-        icon_pack: fas
-      - name: Bioprocess and GMP awareness
-        description: 'HEK293/CHO systems, recombinant protein production, analytical method development, GMP documentation'
-        percent: 85
-        icon: industry
-        icon_pack: fas
-  - name: Professional strengths
-    color: '#1565c0'
-    color_border: '#42a5f5'
-    items:
-      - name: Cross-functional collaboration
-        description: 'Working with experimental scientists, technical teams, infrastructure teams, and external stakeholders'
+      - name: Cross-functional coordination
+        description: 'Aligning scientific, manufacturing, quality, technical, and customer-facing teams around shared project goals'
         percent: 95
         icon: people-group
         icon_pack: fas
-      - name: Technical communication
-        description: 'Clear reports, data interpretation, troubleshooting summaries, and decision-support material'
+      - name: Project planning and execution
+        description: 'Prioritization, scheduling, follow-up, structured delivery, and coordination of demanding project activities'
         percent: 95
-        icon: comments
+        icon: diagram-project
         icon_pack: fas
-      - name: Structured delivery
-        description: 'Requirements gathering, prioritization, documentation, traceability, and long-term usability'
+      - name: Stakeholder and customer communication
+        description: 'Clear communication, relationship management, expectation alignment, and professional technical discussions'
+        percent: 95
+        icon: handshake
+        icon_pack: fas
+      - name: Campaign and operational readiness
+        description: 'Supporting preparation, coordination, and execution of biopharmaceutical production-related activities'
         percent: 90
-        icon: list-check
+        icon: industry
+        icon_pack: fas
+  - name: Biopharma and data strengths
+    color: '#1565c0'
+    color_border: '#42a5f5'
+    items:
+      - name: GMP-aware execution
+        description: 'Change coordination, deviation follow-up, documentation, traceability, and inspection readiness in regulated environments'
+        percent: 90
+        icon: clipboard-check
+        icon_pack: fas
+      - name: Data-informed decision support
+        description: 'Structured reporting, dashboards, trend interpretation, cost awareness, and analytical support for project decisions'
+        percent: 90
+        icon: chart-line
+        icon_pack: fas
+      - name: Scientific and technical background
+        description: 'Systems biology, mammalian recombinant protein production, HEK293/CHO systems, multi-omics, and analytical method development'
+        percent: 90
+        icon: flask-vial
+        icon_pack: fas
+      - name: Reproducible workflows
+        description: 'Python, R, Bash, SQL, Git/GitHub, Nextflow, Snakemake, Docker/Apptainer, HPC, and cloud environments'
+        percent: 85
+        icon: gears
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -159,9 +154,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD-trained data scientist and biotechnologist working at the interface of process analytics, biotechnology, and reproducible data science. My work focuses on using Python, R, statistical modeling, dashboards, and structured reporting to help teams understand variability, identify patterns, and support data-driven decisions.
-
-My background combines advanced analytics for complex biological datasets with mammalian recombinant protein production, HEK293 and CHO systems, and hands-on experience in GMP-regulated biopharmaceutical environments. I have developed reproducible analytical workflows, dashboards, and reports for multi-omics and process-related datasets, with a strong focus on traceability, clear communication, and long-term usability.
-
-After several years at SciLifeLab/NBIS in Sweden, I am now based in Visp, Switzerland. My current professional focus is applying process analytics, multivariate analysis, trend monitoring, predictive modeling, and reproducible workflows to support MSAT, Process Development, and Operations in improving process understanding and operational performance.
+I am a PhD-trained biotechnologist and data-driven Senior Project Leader working at the interface of life sciences, biopharmaceutical operations, and cross-functional project delivery. My background combines computational biology, advanced analytics, mammalian recombinant protein production, and experience in GMP-regulated environments, with a strong focus on coordinating complex work across scientific, technical, manufacturing, quality, and customer-facing teams. I have led and supported projects involving stakeholder communication, structured reporting, troubleshooting, change-oriented discussions, reproducible workflows, and data-informed decision-making. After several years at SciLifeLab/NBIS in Sweden, I am now based in Visp, Switzerland, where my professional focus is on supporting biopharmaceutical projects through clear communication, customer relationship management, campaign preparation, deviation and change coordination, audit and inspection readiness, cost awareness, prioritization, and reliable execution in a collaborative industrial environment.
 {style="text-align: justify;"}
