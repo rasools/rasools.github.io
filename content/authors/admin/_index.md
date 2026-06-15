@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Staff Research Scientist
+role: Senior Project Leader
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ntional Bioinformatics Infrastructure of Sweden (NBIS)
-    url: https://nbis.se/
+  - name: Lonza
+    url: https://www.lonza.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-omics integration, metabolic modeling, genome editing and structural biology.
+bio: Biotechnologist and data-driven project leader focused on biopharmaceutical operations, cross-functional delivery, and data-informed decision-making.
 
 # Interests to show in About widget
 interests:
@@ -46,7 +46,7 @@ education:
     - course: PhD in Systems Biology
       institution: Chalmers University of Technology
       year: 2021
-    - course: Msc in Cell and Molecular Biology
+    - course: MSc in Cell and Molecular Biology
       institution: National Institute of Genetic Engineering and Biotechnology (NIGEB)
       year: 2014
     - course: BSc in Cell and Molecular Biology
@@ -56,20 +56,32 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Professional
     items:
-      - name: Coding
-        description: 'Python, R, Bash, Matlab'
-        icon: laptop-code
-        icon_pack: "fas"
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Project Leadership
+        description: 'Cross-functional coordination, prioritization, stakeholder communication'
+        icon: people-arrows
+        icon_pack: fas
+      - name: Biopharmaceutical Operations
+        description: 'GMP-aware execution, campaign preparation, change and deviation coordination'
+        icon: industry
+        icon_pack: fas
+      - name: Data-Informed Delivery
+        description: 'Dashboards, structured reporting, trend monitoring, KPI and cost visibility'
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
+  - name: Technical
+    items:
+      - name: Programming
+        description: 'Python, R, Bash, MATLAB'
+        icon: laptop-code
+        icon_pack: fas
+      - name: Reproducible Workflows
+        description: 'Git, Nextflow, Snakemake, Docker/Apptainer, HPC, cloud environments'
+        icon: diagram-project
+        icon_pack: fas
+      - name: Data Analytics
+        description: 'Statistical modeling, multivariate analysis, visualization, reporting'
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -80,11 +92,6 @@ skills:
         description: ''
         percent: 70
         icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
@@ -126,5 +133,5 @@ social:
 highlight_name: true
 ---
 
-I'm a computational biologist with a passion for understanding the molecular mechanisms of life. Using math and computers, I explore biology thrilling possibilities in my digital laboratory! I’m currently located in Gothenburg, Sweden, working as a staff research scientist at National Bioinformatics Infrastructure of Sweden (NBIS). As a bioinformatics scientist at NBIS, I am supporting various computational biology projects within academic research groups in Sweden.
+I am a PhD-trained biotechnologist and Senior Project Leader based in Visp, Switzerland, focused on cross-functional project delivery in biopharmaceutical operations. My background combines computational biology, advanced analytics, mammalian recombinant protein production, and GMP-regulated experience, enabling me to connect scientific, technical, manufacturing, quality, and customer-facing teams. I support projects through clear stakeholder communication, campaign preparation, change and deviation coordination, audit readiness, prioritization, cost awareness, and data-informed decision-making.
 {style="text-align: justify;"}
