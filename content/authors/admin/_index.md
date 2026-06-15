@@ -17,12 +17,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Project Leader
+# role: Senior Project Leader
+role: Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Lonza
-    url: https://www.lonza.com/
+  - name: Scilifelab/NBIS
+    url: https://www.scilifelab.se/
+
+# organizations:
+#  - name: Lonza
+#    url: https://www.lonza.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Biotechnologist and data-driven project leader focused on biopharmaceutical operations, cross-functional delivery, and data-informed decision-making.
