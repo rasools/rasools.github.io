@@ -11,31 +11,32 @@ last_name: Saghaleyni
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📊
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Staff Research Scientist
+role: Data Scientist | Process Analytics & Bioprocess Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ntional Bioinformatics Infrastructure of Sweden (NBIS)
-    url: https://nbis.se/
+  - name: Lonza
+    url: https://www.lonza.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-omics integration, metabolic modeling, genome editing and structural biology.
+bio: PhD-trained data scientist and biotechnologist focused on process analytics, statistical modeling, dashboards, reproducible workflows, and data-driven decision support for biopharmaceutical manufacturing.
 
 # Interests to show in About widget
 interests:
-  - Biomarkers discovery
-  - Precision medicine
-  - Integrative omics analysis
-  - Cell factory design
-  - Metabolic modeling
-  - Genome editing
-  - Structural biology
+  - Process analytics and operational data science
+  - MSAT data support and process understanding
+  - Multivariate and statistical modeling
+  - Trend monitoring and predictive modeling
+  - Dashboards and analytical views
+  - Reproducible data workflows
+  - Mammalian bioprocess and protein production
+  - GMP-aware documentation and data integrity
 
 # Education to show in About widget
 education:
@@ -43,7 +44,7 @@ education:
     - course: PhD in Systems Biology
       institution: Chalmers University of Technology
       year: 2021
-    - course: Msc in Cell and Molecular Biology
+    - course: MSc in Biotechnology
       institution: National Institute of Genetic Engineering and Biotechnology (NIGEB)
       year: 2014
     - course: BSc in Cell and Molecular Biology
@@ -55,19 +56,54 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Coding
-        description: 'Python, R, Bash, Matlab'
-        icon: laptop-code
-        icon_pack: "fas"
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Process analytics
+        description: 'Trend monitoring, process variability, performance drivers, troubleshooting support'
+        percent: 95
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
+      - name: Statistical modeling
+        description: 'Multivariate analysis, dimensionality reduction, clustering, regression, machine learning, model interpretation'
+        percent: 95
+        icon: square-poll-vertical
+        icon_pack: fas
+      - name: Scientific programming
+        description: 'Python, R, Bash, SQL, MATLAB'
+        percent: 95
+        icon: laptop-code
+        icon_pack: fas
+      - name: Dashboards and reporting
+        description: 'R Shiny, Quarto, Jupyter, structured reports, stakeholder-facing analytical views'
+        percent: 90
+        icon: chart-pie
+        icon_pack: fas
+      - name: Reproducible workflows
+        description: 'Nextflow, Snakemake, Git/GitHub, Docker/Apptainer, HPC and cloud environments'
+        percent: 90
+        icon: gears
+        icon_pack: fas
+      - name: Bioprocess and GMP awareness
+        description: 'HEK293/CHO systems, recombinant protein production, analytical method development, GMP documentation'
+        percent: 85
+        icon: industry
+        icon_pack: fas
+  - name: Professional strengths
+    color: '#1565c0'
+    color_border: '#42a5f5'
+    items:
+      - name: Cross-functional collaboration
+        description: 'Working with experimental scientists, technical teams, infrastructure teams, and external stakeholders'
+        percent: 95
+        icon: people-group
+        icon_pack: fas
+      - name: Technical communication
+        description: 'Clear reports, data interpretation, troubleshooting summaries, and decision-support material'
+        percent: 95
+        icon: comments
+        icon_pack: fas
+      - name: Structured delivery
+        description: 'Requirements gathering, prioritization, documentation, traceability, and long-term usability'
+        percent: 90
+        icon: list-check
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -78,15 +114,15 @@ skills:
         percent: 70
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
         icon: camera-retro
+        icon_pack: fas
+      - name: Family time
+        description: ''
+        percent: 100
+        icon: people-roof
         icon_pack: fas
 
 # Social/Academic Networking
@@ -97,24 +133,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/RaSaghaleyn
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=j_VCLlkAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/rasools
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rasool-saghaleyni/
+    label: Connect on LinkedIn
+    display:
+      header: true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/rasools
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=j_VCLlkAAAAJ&hl=en
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/RaSaghaleyn
+    label: Follow me on X/Twitter
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`.
   - icon: cv
     icon_pack: ai
     link: uploads/CV-Rasool.pdf
@@ -123,5 +159,9 @@ social:
 highlight_name: true
 ---
 
-I'm a computational biologist with a passion for understanding the molecular mechanisms of life. Using math and computers, I explore biology thrilling possibilities in my digital laboratory! I’m currently located in Gothenburg, Sweden, working as a staff research scientist at National Bioinformatics Infrastructure of Sweden (NBIS). As a bioinformatics scientist at NBIS, I am supporting various computational biology projects within academic research groups in Sweden.
+I am a PhD-trained data scientist and biotechnologist working at the interface of process analytics, biotechnology, and reproducible data science. My work focuses on using Python, R, statistical modeling, dashboards, and structured reporting to help teams understand variability, identify patterns, and support data-driven decisions.
+
+My background combines advanced analytics for complex biological datasets with mammalian recombinant protein production, HEK293 and CHO systems, and hands-on experience in GMP-regulated biopharmaceutical environments. I have developed reproducible analytical workflows, dashboards, and reports for multi-omics and process-related datasets, with a strong focus on traceability, clear communication, and long-term usability.
+
+After several years at SciLifeLab/NBIS in Sweden, I am now based in Visp, Switzerland. My current professional focus is applying process analytics, multivariate analysis, trend monitoring, predictive modeling, and reproducible workflows to support MSAT, Process Development, and Operations in improving process understanding and operational performance.
 {style="text-align: justify;"}
