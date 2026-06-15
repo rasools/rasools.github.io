@@ -30,11 +30,10 @@ bio: Biotechnologist and data-driven project leader focused on biopharmaceutical
 # Interests to show in About widget
 interests:
   - Data-informed project leadership
-  - Cross-functional biopharmaceutical project delivery
+  - Cross-functional project delivery
   - Stakeholder and customer communication
   - Operational data analytics
   - Process trend monitoring
-  - Dashboards and structured reporting
   - KPI and cost visibility
   - GMP-aware documentation and traceability
   - Change and deviation coordination
