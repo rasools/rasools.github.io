@@ -35,9 +35,8 @@ interests:
   - Operational data analytics
   - Process trend monitoring
   - KPI and cost visibility
-  - GMP-aware documentation and traceability
-  - Change and deviation coordination
-  - Process understanding and performance improvement
+  - GMP-aware documentation
+  - Deviation coordination
 
 # Education to show in About widget
 education:
