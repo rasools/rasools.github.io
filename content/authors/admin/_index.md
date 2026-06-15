@@ -133,5 +133,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD-trained biotechnologist and Senior Project Leader based in Visp, Switzerland, focused on cross-functional project delivery in biopharmaceutical operations. My background combines computational biology, advanced analytics, mammalian recombinant protein production, and GMP-regulated experience, enabling me to connect scientific, technical, manufacturing, quality, and customer-facing teams. I support projects through clear stakeholder communication, campaign preparation, change and deviation coordination, audit readiness, prioritization, cost awareness, and data-informed decision-making.
+I am a PhD-trained biotechnologist and Senior Project Leader based in Visp, Switzerland, focused on cross-functional project delivery in biopharmaceutical operations. My background combines computational biology, advanced analytics, mammalian recombinant protein production, and GMP-regulated experience. I support complex projects through stakeholder communication, campaign preparation, change and deviation coordination, audit readiness, prioritization, cost awareness, and data-informed decision-making.
 {style="text-align: justify;"}
